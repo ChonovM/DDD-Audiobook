@@ -16,4 +16,8 @@ public class OrderAudioBook extends AbstractEntity<OrderAudioBookId>{
 
     @AttributeOverride(name="id", column = @Column(name = "audiobook_id", nullable = false))
     private AudioBookId audioBookId;
+
+    public Money subtotal(){
+        return audioBookPrice;
+    }
 }
