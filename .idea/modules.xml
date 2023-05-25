@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DDD-Audiobook.iml" filepath="$PROJECT_DIR$/.idea/DDD-Audiobook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMT4LABFINAL/EMT4LABFINAL.iml" filepath="$PROJECT_DIR$/EMT4LABFINAL/EMT4LABFINAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMT4LABFINAL/audiobook-management/audiobook-management.iml" filepath="$PROJECT_DIR$/EMT4LABFINAL/audiobook-management/audiobook-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMT4LABFINAL/billing-management/billing-management.iml" filepath="$PROJECT_DIR$/EMT4LABFINAL/billing-management/billing-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMT4LABFINAL/shared-kernel/shared-kernel.iml" filepath="$PROJECT_DIR$/EMT4LABFINAL/shared-kernel/shared-kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EMT4LABFINAL/user-management/user-management.iml" filepath="$PROJECT_DIR$/EMT4LABFINAL/user-management/user-management.iml" />
+    </modules>
+  </component>
+</project>
